@@ -21,7 +21,7 @@ jobs:
 
       - name: Run Universal Frontend Squeezer
         id: squeeze
-        uses: your-username/universal-frontend-squeezer@v1
+        uses: FED-OS/universal-frontend-squeezer@v1
         with:
           image-quality: '75'
           paths: 'assets,public,src/images'
