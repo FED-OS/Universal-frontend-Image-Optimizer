@@ -1,6 +1,6 @@
 # Universal Frontend Asset Optimizer<img width="807" height="450" alt="1776896526" src="https://github.com/user-attachments/assets/62ac2ce7-709e-4029-bdb4-9a75f35c0618" />
 
-![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)
+![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/YOUR_USERNAME)
 
 
 A GitHub Action that scans a repo (or specific folders) for `.jpg`, `.jpeg`, and `.png`
