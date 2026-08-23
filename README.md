@@ -1,4 +1,6 @@
-# Universal Frontend Asset Optimizer ![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white) <a href='https://ko-fi.com/YOUR_USERNAME' target='_blank'>
+# Universal Frontend Asset Optimizer ![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white) 
+
+<a href='https://ko-fi.com/YOUR_USERNAME' target='_blank'>
     <img height='36' style='border:0px;height:36px;' src='https://ko-fi.com/img/githubbutton_sm.svg' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 </a>
 
